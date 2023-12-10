@@ -6,8 +6,7 @@
 # GMS
 WITH_GMS := true
 
-#Fixing Vendor Errors
-BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
+
 
 DEVICE_PATH := device/xiaomi/stone
 
