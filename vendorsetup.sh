@@ -1,4 +1,4 @@
-git clone --depth=1 https://github.com/Stone-Trees/device_xiaomi_sm6375-common.git -b lineage-20 device/xiaomi/sm6375-common
+git clone --depth=1 https://github.com/AMRITO1/device_xiaomi_sm6375-common.git -b lineage-20 device/xiaomi/sm6375-common
 
 git clone --depth=1 https://github.com/Stone-Trees/vendor_xiaomi.git vendor/xiaomi
 
